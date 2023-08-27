@@ -1,6 +1,4 @@
 
-# academy-template-readme-profile
-
 # Oi, me chamo Diogo Linhares 👋
 
 ### Olá! Meu nome é Diogo, tenho 25 anos e sou um desenvolvedor Full Stack apaixonado por tecnologia. Minhas principais habilidades incluem JavaScript e Node.js, e estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Como desenvolvedor Full Stack, sou capaz de trabalhar tanto no desenvolvimento de interfaces de usuário interativas usando frameworks como React, quanto no desenvolvimento de servidores robustos usando Node.js. Tenho experiência em desenvolvimento web, criação de APIs e banco de dados como PostgreSQL. Estou animado em colaborar em projetos desafiadores e trabalhar em equipe para criar soluções inovadoras. Se você está procurando um desenvolvedor dedicado, apaixonado por codificação e com sede de aprendizado, adoraria conectar com você no GitHub! Não hesite em entrar em contato para discutir oportunidades de trabalho ou colaboração. Vamos construir algo incrível juntos!
